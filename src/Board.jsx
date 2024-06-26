@@ -69,9 +69,7 @@ export default function Board() {
   }
   return (
     <>
-      <h5 className="text-xl font-bold">
-        Selamat datang di Game Tic Tac Toe Ayang Akuu 🤗🤗
-      </h5>
+      <h5 className="text-xl font-bold">Selamat datang di Game Tic Tac Toe</h5>
       <div className="mb-8">{status}</div>
       <div
         style={{
